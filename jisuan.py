@@ -25,4 +25,4 @@ print(a%b)
 row=8
 id=36
 
-print("学号为{}的小朋友，坐在第{}排第{}座".format(id,id//row+1,id%row)
+print("学号为{}的小朋友，坐在第{}排第{}座".format(id,id//row+1,id%row))
