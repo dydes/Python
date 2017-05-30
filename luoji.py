@@ -11,3 +11,10 @@ elif number>ran:
     print("{}更大".format(number))
 else:
     print("{}更大".format(ran))
+
+if(ran>=1 and ran<3):
+    print(ran)
+    print("ran 为1或2")
+elif(ran>3):
+    print(ran)
+    print("ran为4到6")
