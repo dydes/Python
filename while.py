@@ -5,7 +5,7 @@ while True:
     print("正在生成随机数...")
     time.sleep(1)
     number=3
-    ran=random.randint(1,10)
+    ran=random.randint(1,15)
 
     if number==ran:
         print("找到相同数字")
