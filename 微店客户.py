@@ -21,4 +21,4 @@ driver.maximize_window()
 print(driver.get_window_position())
 
 # 找到登录按钮并单击
-driver.find_element("class","login").click()
+driver.find_element("link_text","login").click()
