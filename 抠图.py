@@ -1,5 +1,6 @@
-pip install removebg
-from removebg import RemoveBg
+# pip install removebg
+# from removebg import RemoveBg
+# 用的时候先pip装包，然后再引用，去掉注释
 
 #获取API
 rmbg = RemoveBg("xrCqrD4fee1fGhej3yzDGAmc", "error.log")       
